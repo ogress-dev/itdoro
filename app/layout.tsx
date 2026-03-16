@@ -48,6 +48,9 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
+  verification: {
+    google: '2h-U0BQ4w7OOmoXqgoa5IeylQbLLPzttLhzumbEL4x8',
+  },
   openGraph: {
     title: 'David Doro',
     description: 'Brand and Product Design',
