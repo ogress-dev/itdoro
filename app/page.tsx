@@ -153,7 +153,6 @@ export default function Page() {
   };
 
   const isMobile = useIsMobile();
-
   return (
     <>
       <div className="hero hero-mobile-extra w-dvw h-dvh overflow-hidden mx-auto relative">
